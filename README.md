@@ -13,6 +13,7 @@ Este é um site simples e responsivo que exibe um catálogo de filmes com busca 
 
 ```
 📂 projeto/
+├── imagens.rar        # Arquivo que contem as imagens dos posters
 ├── index.html         # Estrutura principal da página
 ├── style.css          # Estilo e layout da interface
 └── script.js          # Lógica de busca e manipulação de DOM
@@ -27,9 +28,10 @@ Este é um site simples e responsivo que exibe um catálogo de filmes com busca 
 ## 🚀 Como Usar
 
 1. Clone ou baixe este repositório
-2. Abra o arquivo `index.html` no navegador
-3. Use o campo de busca para encontrar filmes
-4. Envie uma mensagem pelo formulário de contato
+2. Extraia "imagens.rar" na mesma pasta dos outros arquivos
+3. Abra o arquivo `index.html` no navegador
+4. Use o campo de busca para encontrar filmes
+5. Envie uma mensagem pelo formulário de contato
 
 ## 📦 Tecnologias Utilizadas
 
